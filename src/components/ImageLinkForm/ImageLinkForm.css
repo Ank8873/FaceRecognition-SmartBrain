@@ -1,3 +1,8 @@
 .form {
 	width: 700px;
 }
+@media (max-width: 720px) {
+	.form {
+		width: 437px;
+	}
+}
